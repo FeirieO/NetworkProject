@@ -1,0 +1,7 @@
+D:\Dev\NetworkProject\CTets\WebTest\WebTest\bin\Debug\WebTest.exe.config
+D:\Dev\NetworkProject\CTets\WebTest\WebTest\bin\Debug\WebTest.exe
+D:\Dev\NetworkProject\CTets\WebTest\WebTest\bin\Debug\WebTest.pdb
+D:\Dev\NetworkProject\CTets\WebTest\WebTest\obj\Debug\WebTest.csprojAssemblyReference.cache
+D:\Dev\NetworkProject\CTets\WebTest\WebTest\obj\Debug\WebTest.csproj.CoreCompileInputs.cache
+D:\Dev\NetworkProject\CTets\WebTest\WebTest\obj\Debug\WebTest.exe
+D:\Dev\NetworkProject\CTets\WebTest\WebTest\obj\Debug\WebTest.pdb
